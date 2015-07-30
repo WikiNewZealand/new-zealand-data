@@ -90,7 +90,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - New Zealand Electricity Industry
   - [Market Info](http://www.electricityinfo.co.nz/comitFta/ftapage.main)
 - NZ Post
-  - [Developmer Center](https://www.nzpost.co.nz/business/developer-centre)
+  - [Developer Center](https://www.nzpost.co.nz/business/developer-centre)
 - Zenbu
   - [NZ Places Listings](http://www.zenbu.co.nz/about/xml)
 - Carjam

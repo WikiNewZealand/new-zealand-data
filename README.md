@@ -20,6 +20,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - Department of Conservation (DoC)
   - [Doc Facilities](http://geoportal.doc.govt.nz/geoportal/catalog/search/browse/browse.page)
 - Department of Internal Affairs (DIA) (+ DigitalNZ)
+  - [Digital NZ API](http://digitalnz.org/developers) 
   - [Data.govt.nz](http://data.govt.nz) – Contains listings of and links to over 3,400 datasets from various Government departments, including LINZ, National Library, ACC, Police, various District Councils.  There were 247 datasets marked as either updated or newly added  between 1st June 2015 & 14th June 2015.
   - [Government A-Z directory and Consultation Listing](https://www.govt.nz/about/api)
   - [New Zealand Gazette](http://www.digitalnz.org/developers/govhack-infopack#gazette)
@@ -28,7 +29,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [WWI related data](http://www.digitalnz.org/developers/wwi-api-examples)
   - [Publications New Zealand](http://natlib.govt.nz/about-us/open-data/publications-nz-metadata)
   - [Index New Zealand](http://natlib.govt.nz/about-us/open-data/innz-metadata)
-  - [Free DigitalNZ Downloads](http://natlib.govt.nz/photos?il%5batl_free_download%5d=true)
+  - [Free Alexander Turnbull Library Image Downloads](http://natlib.govt.nz/photos?il%5batl_free_download%5d=true)
 - Inland Revenue (IRD)
   - [Tax Statistics](http://www.ird.govt.nz/aboutir/external-stats/tax-statistics-sitemap.html)
 - Land Information New Zealand (LINZ)

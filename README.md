@@ -20,7 +20,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - Department of Conservation (DoC)
   - [Doc Facilities](http://geoportal.doc.govt.nz/geoportal/catalog/search/browse/browse.page)
 - Department of Internal Affairs (DIA) (+ DigitalNZ)
-  - [Statistics Page](data.govt.nz) – Contains over 3,400 datasets from various Government departments, including LINZ, National Library, ACC, Police, various District Councils.  There were 247 datasets marked as either updated or newly added  between 1st June 2015 & 14th June 2015.
+  - [Data.govt.nz](http://data.govt.nz) – Contains listings of and links to over 3,400 datasets from various Government departments, including LINZ, National Library, ACC, Police, various District Councils.  There were 247 datasets marked as either updated or newly added  between 1st June 2015 & 14th June 2015.
   - [Government A-Z directory and Consultation Listing](https://www.govt.nz/about/api)
   - [New Zealand Gazette](http://www.digitalnz.org/developers/govhack-infopack#gazette)
   - [Papers Past](http://natlib.govt.nz/about-us/open-data/papers-past-metadata)

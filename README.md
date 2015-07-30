@@ -2,11 +2,13 @@
 
 This is a list of New Zealand Data and available APIs, Pull Requests are very welcome :smile:.
 
-### Government
+### Centeral Government & Agencies
+
 - Statistics New Zealand
   - [NZ.Stat](http://nzdotstat.stats.govt.nz/wbos/Index.aspx) - primary point of access for most statistics, so far has fully replaced the old Table Builder
   - [Infoshare](http://www.stats.govt.nz/infoshare/) - time series data, in process of migrating to NZ.Stat
   - [Statistics Browser](http://statistics.govt.nz/browse_for_stats.aspx)
+  - [Geographic Boundary Files](http://www.stats.govt.nz/browse_for_stats/Maps_and_geography/Geographic-areas/digital-boundary-files.aspx)
 - Ministry of Social Development (MSD)
   - [Statistics Page](https://www.msd.govt.nz/about-msd-and-our-work/publications-resources/statistics/index.html)
   - [Benefits Data Tables](https://www.msd.govt.nz/about-msd-and-our-work/publications-resources/statistics/benefit/index.html#Datatables6)
@@ -17,6 +19,8 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [Health Statistics and Datasets](http://www.health.govt.nz/nz-health-statistics/health-statistics-and-data-sets)
 - Ministry of Transport (MoT)
   - [Transport Data](http://www.transport.govt.nz/ourwork/tmif/)
+- Ministry for the Environment (MoE)
+  - [GIS Data & APIs](https://data.mfe.govt.nz/)
 - Department of Conservation (DoC)
   - [Doc Facilities](http://geoportal.doc.govt.nz/geoportal/catalog/search/browse/browse.page)
 - Department of Internal Affairs (DIA) (+ DigitalNZ)
@@ -33,7 +37,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - Inland Revenue (IRD)
   - [Tax Statistics](http://www.ird.govt.nz/aboutir/external-stats/tax-statistics-sitemap.html)
 - Land Information New Zealand (LINZ)
-  - [Statistics Page](https://data.linz.govt.nz/)
+  - [LINZ Data Service - GIS Data & APIs](https://data.linz.govt.nz/) - Authoritative New Zealand topographic, hydrographic, survey, title, street address, crown pastoral land, aerial imagery, and geodetic data.
 - Education Counts
   - [Data Collections](https://www.educationcounts.govt.nz/data-services/data-collections)
   - [Statistics](http://www.educationcounts.govt.nz/statistics)
@@ -48,6 +52,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - New Zealand Transport Agency (NZTA)
   - [InfoConnect](https://infoconnect.highwayinfo.govt.nz/opencms/opencms/infoconnect)
   - [Crash Analysis System (CAS)](https://www.nzta.govt.nz/resources/crash-analysis-system-data/index.html)
+  - [Aerial Imagery](https://koordinates.com/publisher/nzta/data/)
 - Ministry of Business, Innovation and Employment (MBIE)
   - [API](https://api.business.govt.nz/api/)
   - [Companies Register](http://www.business.govt.nz/companies/help-support/technical-support/connect-direct/web-services)
@@ -57,8 +62,12 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [Tourism forecasts](http://www.med.govt.nz/sectors-industries/tourism/tourism-research-data/forecasts/2015-2021-forecasts)
 - Reserve Bank of New Zealand
   - [Statistics](http://www.rbnz.govt.nz/statistics/)
+- New Zealand Defence Force (NZDF)
+  - [GEOINT New Zealand - SW Pacific GIS data / APIs](https://geodata.nzdf.mil.nz/)
 
-### District Councils
+
+### Local Government (Regional, District and City Councils)
+
 - Auckland Council
   - [Auckland Open Data](http://aucklandopendata.aucklandcouncil.opendata.arcgis.com/)
   - [Auckland Transport API](https://api.at.govt.nz/)
@@ -70,13 +79,30 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [Food Grading Search](http://www.wanganui.govt.nz/our-services/do-it-online/food-grading-search/Pages/default.aspx)
 - Wellington City Council (WCC)
   - [GIS Data](http://data.wcc.opendata.arcgis.com/)
+  - [GIS Data (alternative)](https://koordinates.com/publisher/wcc/data/)
   - [Metlink Realtime Data (non-API)](http://www.metlink.org.nz/getting-around/real-time-information/)
+- Environment Canterbury & Partners (ECAN)
+  - [GIS Data & APIs](https://data.canterburymaps.govt.nz/)
+- Greater Wellington Regional Council (GWRC)
+  - [GIS Data & APIs](https://koordinates.com/publisher/greater-wellington-regional-council/data/)
+- Porirua City Council
+  - [GIS Data & APIs](https://koordinates.com/publisher/porirua-city-council/data/)
 
-### Organisations
+
+### Crown Research Institutes (CRIs)
+
+- NIWA
+  - [CliFlo Climate Database](http://cliflo.niwa.co.nz/)
+- GNS Science
+  - [GeoNet - Earthquake Data](http://www.geonet.org.nz/resources/earthquake/quake-web-services.html)
+- Landcare Research
+  - [LRIS Portal - Science/Land GIS Data & APIs](https://lris.scinfo.org.nz/)
+
+
+### Non-Government Organisations (NGOs)
+
 - Land Air Water Aotearoa (LAWA)
   - [Natural resources data](http://www.lawa.org.nz/)
-- GeoNet
-  - [Earthquake Data](http://www.geonet.org.nz/resources/earthquake/quake-web-services.html)
 - New Zealand Organisms Register
   - [Organism Register](http://data.nzor.org.nz/)
 - Figure NZ (formally Wiki New Zealand)
@@ -86,7 +112,9 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - Hack Miramar
   - [Multiple Various Datasets and APIs](https://hack-miramar.wikispaces.com/Data+sources) (needs expanding)
 
+
 ### Companies
+
 - New Zealand Electricity Industry
   - [Market Info](http://www.electricityinfo.co.nz/comitFta/ftapage.main)
 - NZ Post
@@ -96,7 +124,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - Carjam
   - [Vehicle Information](http://www.carjam.co.nz/cms/2008/12/24/carjam-api/)
 - Koordinates
-  - [Geospacial Data](http://api.koordinates.com)
+  - [Geospatial Data & APIs](https://koordinates.com)
 - Eventfinder
   - [Event Infomation](http://www.eventfinder.co.nz/api/index)
 - Powershop
@@ -105,8 +133,6 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [Full API](http://developer.trademe.co.nz/)
 - Xero
   - [Full API](http://developer.xero.com/documentation/getting-started/getting-started-guide/)
-- NIWA
-  - [CliFlo Climate Database](http://cliflo.niwa.co.nz/)
 - Wellington News
   - [News RSS Feed/API](http://wellington.gen.nz/api)
 - Vend

@@ -4,7 +4,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 
 ### Government
 - Statistics New Zealand
-  - [Statitics Page](http://nzdotstat.stats.govt.nz/wbos/Index.aspx)
+  - [Statistics Page](http://nzdotstat.stats.govt.nz/wbos/Index.aspx)
   - [DataHub Table Viewer](http://nzdotstat.stats.govt.nz/wbos/Index.aspx)
   - [Statistics Browser](http://statistics.govt.nz/browse_for_stats.aspx)
 - Ministry of Social Development (MSD)
@@ -46,7 +46,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [Secondary School Stats](http://www.nzqa.govt.nz/studying-in-new-zealand/secondary-school-and-ncea/find-information-about-a-school/secondary-school-statistics/consolidated-files/)
 - New Zealand Transport Agency (NZTA)
   - [InfoConnect](https://infoconnect.highwayinfo.govt.nz/opencms/opencms/infoconnect)
-- Ministry of Business (MoB)
+- Ministry of Business, Innovation and Employment (MBIE)
   - [API](https://api.business.govt.nz/api/)
   - [Companies Register](http://www.business.govt.nz/companies/help-support/technical-support/connect-direct/web-services)
   - [Rental Bond Data](http://www.building.govt.nz/nz-housing-and-construction-quarterly-open-data)

@@ -4,8 +4,8 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 
 ### Government
 - Statistics New Zealand
-  - [Statistics Page](http://nzdotstat.stats.govt.nz/wbos/Index.aspx)
-  - [DataHub Table Viewer](http://nzdotstat.stats.govt.nz/wbos/Index.aspx)
+  - [NZ.Stat](http://nzdotstat.stats.govt.nz/wbos/Index.aspx) - primary point of access for most statistics, so far has fully replaced the old Table Builder
+  - [Infoshare](http://www.stats.govt.nz/infoshare/) - time series data, in process of migrating to NZ.Stat
   - [Statistics Browser](http://statistics.govt.nz/browse_for_stats.aspx)
 - Ministry of Social Development (MSD)
   - [Statistics Page](https://www.msd.govt.nz/about-msd-and-our-work/publications-resources/statistics/index.html)
@@ -51,6 +51,9 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [API](https://api.business.govt.nz/api/)
   - [Companies Register](http://www.business.govt.nz/companies/help-support/technical-support/connect-direct/web-services)
   - [Rental Bond Data](http://www.building.govt.nz/nz-housing-and-construction-quarterly-open-data)
+  - [Regional Tourism Estimates](http://www.med.govt.nz/sectors-industries/tourism/tourism-research-data/regional-tourism-estimates/key-pivot-table) - annual dollars
+  - [Regional Tourism Indicators](http://www.med.govt.nz/sectors-industries/tourism/tourism-research-data/regional-tourism-indicators) - monthly index
+  - [Tourism forecasts](http://www.med.govt.nz/sectors-industries/tourism/tourism-research-data/forecasts/2015-2021-forecasts)
 - Reserve Bank of New Zealand
   - [Statistics](http://www.rbnz.govt.nz/statistics/)
 

@@ -53,6 +53,8 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [Rental Bond Data](http://www.building.govt.nz/nz-housing-and-construction-quarterly-open-data)
 
 ### District Councils
+- Auckland Council
+  - [Auckland Open Data](http://aucklandopendata.aucklandcouncil.opendata.arcgis.com/)
 - Wanganui District Council
   - [Full Datasets](http://wdc.wanganui.govt.nz/odata/xml/index.html)
   - [GIS data](http://maps.wanganui.govt.nz/geoserver/web/;jsessionid=h7wgq0v25vjm?wicket:bookmarkablePage=:org.geoserver.web.demo.MapPreviewPage)

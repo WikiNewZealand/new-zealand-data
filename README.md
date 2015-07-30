@@ -57,6 +57,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 ### District Councils
 - Auckland Council
   - [Auckland Open Data](http://aucklandopendata.aucklandcouncil.opendata.arcgis.com/)
+  - [Auckland Transport API](https://api.at.govt.nz/)
 - Wanganui District Council
   - [Full Datasets](http://wdc.wanganui.govt.nz/odata/xml/index.html)
   - [GIS data](http://maps.wanganui.govt.nz/geoserver/web/;jsessionid=h7wgq0v25vjm?wicket:bookmarkablePage=:org.geoserver.web.demo.MapPreviewPage)

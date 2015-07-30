@@ -51,6 +51,8 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [API](https://api.business.govt.nz/api/)
   - [Companies Register](http://www.business.govt.nz/companies/help-support/technical-support/connect-direct/web-services)
   - [Rental Bond Data](http://www.building.govt.nz/nz-housing-and-construction-quarterly-open-data)
+- Reserve Bank of New Zealand
+  - [Statistics](http://www.rbnz.govt.nz/statistics/)
 
 ### District Councils
 - Auckland Council

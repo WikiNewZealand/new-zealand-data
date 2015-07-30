@@ -72,7 +72,9 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - Figure NZ (formally Wiki New Zealand)
   - [Full API](http://figure.nz/api/)
 - Open Data
-  - [Multiple Various Datasets](http://cat.open.org.nz/category/dataset/)
+  - [Multiple Various Datasets](http://cat.open.org.nz/category/dataset/) (needs expanding)
+- Hack Miramar
+  - [Multiple Various Datasets and APIs](https://hack-miramar.wikispaces.com/Data+sources) (needs expanding)
 
 ### Companies
 - New Zealand Electricity Industry
@@ -100,6 +102,10 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - Vend
   - [Full API](https://developers.vendhq.com/documentation)
 
+#### Help wanted
+Hi there, if you're interested in helping out I'd love a PR with new links, if you've never created a Pull Request before get in touch and I'll help you out.
+
+I'd also be great to go through each link and figure out if it's static data or an API, and if the link actually goes some where.
 
 #### References and Attributions
 [Govhack 2015](http://govhack.org.nz/2015-data/),

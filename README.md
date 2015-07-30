@@ -46,6 +46,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [Secondary School Stats](http://www.nzqa.govt.nz/studying-in-new-zealand/secondary-school-and-ncea/find-information-about-a-school/secondary-school-statistics/consolidated-files/)
 - New Zealand Transport Agency (NZTA)
   - [InfoConnect](https://infoconnect.highwayinfo.govt.nz/opencms/opencms/infoconnect)
+  - [Crash Analysis System (CAS)](https://www.nzta.govt.nz/resources/crash-analysis-system-data/index.html)
 - Ministry of Business, Innovation and Employment (MBIE)
   - [API](https://api.business.govt.nz/api/)
   - [Companies Register](http://www.business.govt.nz/companies/help-support/technical-support/connect-direct/web-services)

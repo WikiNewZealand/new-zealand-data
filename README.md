@@ -137,6 +137,10 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [News RSS Feed/API](http://wellington.gen.nz/api)
 - Vend
   - [Full API](https://developers.vendhq.com/documentation)
+- Psoda
+  - [Web Services API](https://www.psoda.com/download/PsodaWebServicesReference.pdf)
+- ASB
+  - [API](https://developer.asb.co.nz/) 
 
 #### Help wanted
 Hi there, if you're interested in helping out I'd love a PR with new links, if you've never created a Pull Request before get in touch and I'll help you out.

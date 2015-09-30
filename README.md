@@ -98,7 +98,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - NIWA
   - [CliFlo Climate Database](http://cliflo.niwa.co.nz/)
   - [River Environment Classification (REC) v2.0 (OGC WMS)](http://gs.niwa.co.nz/rec/wms)
-  - [River Envrionment Classification (REC) v2.0 (OGC WMTS)](http://gis.niwa.co.nz/arcgis/rest/services/HYDRO/REC_rivers_lakes/MapServer/WMTS?)
+  - [River Envrionment Classification (REC) v2.0 (ArcGIS WMTS)](http://gis.niwa.co.nz/arcgis/rest/services/HYDRO/REC_rivers_lakes/MapServer/WMTS?)
 - Wellington News
   - [News RSS Feed/API](http://wellington.gen.nz/api)
 - Vend

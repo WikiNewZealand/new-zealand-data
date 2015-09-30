@@ -57,9 +57,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [API](https://api.business.govt.nz/api/)
   - [Companies Register](http://www.business.govt.nz/companies/help-support/technical-support/connect-direct/web-services)
   - [Rental Bond Data](http://www.building.govt.nz/nz-housing-and-construction-quarterly-open-data)
-- Landcare Research | Manaaki Whenua
-  - [Topographic basemaps (OGC WMS)](http://maps.scinfo.org.nz/basemaps/wms?)
-  
+
 ### District Councils
   - [Regional Tourism Estimates](http://www.med.govt.nz/sectors-industries/tourism/tourism-research-data/regional-tourism-estimates/key-pivot-table) - annual dollars
   - [Regional Tourism Indicators](http://www.med.govt.nz/sectors-industries/tourism/tourism-research-data/regional-tourism-indicators) - monthly index
@@ -97,11 +95,13 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 
 - NIWA
   - [CliFlo Climate Database](http://cliflo.niwa.co.nz/)
+  - [River Environment Classification (REC) v2.0 (OGC WMS)](http://gs.niwa.co.nz/rec/wms)
+  - [River Envrionment Classification (REC) v2.0 (ArcGIS WMTS)](http://gis.niwa.co.nz/arcgis/rest/services/HYDRO/REC_rivers_lakes/MapServer/WMTS?)
 - GNS Science
   - [GeoNet - Earthquake Data](http://www.geonet.org.nz/resources/earthquake/quake-web-services.html)
-- Landcare Research
+- Landcare Research | Manaaki Whenua
   - [LRIS Portal - Science/Land GIS Data & APIs](https://lris.scinfo.org.nz/)
-
+  - [Topographic basemaps (OGC WMS)](http://maps.scinfo.org.nz/basemaps/wms?)
 
 ### Non-Government Organisations (NGOs)
 
@@ -137,10 +137,6 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [Full API](http://developer.trademe.co.nz/)
 - Xero
   - [Full API](http://developer.xero.com/documentation/getting-started/getting-started-guide/)
-- NIWA
-  - [CliFlo Climate Database](http://cliflo.niwa.co.nz/)
-  - [River Environment Classification (REC) v2.0 (OGC WMS)](http://gs.niwa.co.nz/rec/wms)
-  - [River Envrionment Classification (REC) v2.0 (ArcGIS WMTS)](http://gis.niwa.co.nz/arcgis/rest/services/HYDRO/REC_rivers_lakes/MapServer/WMTS?)
 - Wellington News
   - [News RSS Feed/API](http://wellington.gen.nz/api)
 - Vend

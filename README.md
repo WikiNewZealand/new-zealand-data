@@ -24,7 +24,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - Department of Conservation (DoC)
   - [Doc Facilities](http://geoportal.doc.govt.nz/geoportal/catalog/search/browse/browse.page)
 - Department of Internal Affairs (DIA) (+ DigitalNZ)
-  - [Digital NZ API](http://digitalnz.org/developers) 
+  - [Digital NZ API](http://digitalnz.org/developers)
   - [Data.govt.nz](http://data.govt.nz) – Contains listings of and links to over 3,400 datasets from various Government departments, including LINZ, National Library, ACC, Police, various District Councils.  There were 247 datasets marked as either updated or newly added  between 1st June 2015 & 14th June 2015.
   - [Government A-Z directory and Consultation Listing](https://www.govt.nz/about/api)
   - [New Zealand Gazette](http://www.digitalnz.org/developers/govhack-infopack#gazette)
@@ -57,6 +57,8 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [API](https://api.business.govt.nz/api/)
   - [Companies Register](http://www.business.govt.nz/companies/help-support/technical-support/connect-direct/web-services)
   - [Rental Bond Data](http://www.building.govt.nz/nz-housing-and-construction-quarterly-open-data)
+
+### District Councils
   - [Regional Tourism Estimates](http://www.med.govt.nz/sectors-industries/tourism/tourism-research-data/regional-tourism-estimates/key-pivot-table) - annual dollars
   - [Regional Tourism Indicators](http://www.med.govt.nz/sectors-industries/tourism/tourism-research-data/regional-tourism-indicators) - monthly index
   - [Tourism forecasts](http://www.med.govt.nz/sectors-industries/tourism/tourism-research-data/forecasts/2015-2021-forecasts)
@@ -93,11 +95,13 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 
 - NIWA
   - [CliFlo Climate Database](http://cliflo.niwa.co.nz/)
+  - [River Environment Classification (REC) v2.0 (OGC WMS)](http://gs.niwa.co.nz/rec/wms)
+  - [River Envrionment Classification (REC) v2.0 (ArcGIS WMTS)](http://gis.niwa.co.nz/arcgis/rest/services/HYDRO/REC_rivers_lakes/MapServer/WMTS?)
 - GNS Science
   - [GeoNet - Earthquake Data](http://www.geonet.org.nz/resources/earthquake/quake-web-services.html)
-- Landcare Research
+- Landcare Research | Manaaki Whenua
   - [LRIS Portal - Science/Land GIS Data & APIs](https://lris.scinfo.org.nz/)
-
+  - [Topographic basemaps (OGC WMS)](http://maps.scinfo.org.nz/basemaps/wms?)
 
 ### Non-Government Organisations (NGOs)
 
@@ -140,7 +144,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 - Psoda
   - [Web Services API](https://www.psoda.com/download/PsodaWebServicesReference.pdf)
 - ASB
-  - [API](https://developer.asb.co.nz/) 
+  - [API](https://developer.asb.co.nz/)
 
 #### Help wanted
 Hi there, if you're interested in helping out I'd love a PR with new links, if you've never created a Pull Request before get in touch and I'll help you out.

@@ -115,6 +115,8 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [Multiple Various Datasets](http://cat.open.org.nz/category/dataset/) (needs expanding)
 - Hack Miramar
   - [Multiple Various Datasets and APIs](https://hack-miramar.wikispaces.com/Data+sources) (needs expanding)
+- New Zealand Institute of Economic Research
+  - [Data1850 – Long-term economic data](https://data1850.nz/)
 
 
 ### Companies

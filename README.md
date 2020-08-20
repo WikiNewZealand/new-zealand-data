@@ -151,8 +151,6 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 	- [Geospatial Data & APIs](https://koordinates.com)
 - Eventfinder
 	- [Event Infomation](http://www.eventfinder.co.nz/api/index)
-- Powershop
-	- ~~Usage, Meter Readings, Account Topup~~
 - TradeMe
 	- [Full API](http://developer.trademe.co.nz/)
 - Xero

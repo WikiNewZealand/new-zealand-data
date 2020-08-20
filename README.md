@@ -35,7 +35,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
   - [Index New Zealand](http://natlib.govt.nz/about-us/open-data/innz-metadata)
   - [Free Alexander Turnbull Library Image Downloads](http://natlib.govt.nz/photos?il%5batl_free_download%5d=true)
 - Inland Revenue (IRD)
-  - [Tax Statistics](http://www.ird.govt.nz/aboutir/external-stats/tax-statistics-sitemap.html)
+  - [Tax Statistics](https://www.ird.govt.nz/about-us/tax-statistics)
 - Land Information New Zealand (LINZ)
   - [LINZ Data Service - GIS Data & APIs](https://data.linz.govt.nz/) - Authoritative New Zealand topographic, hydrographic, survey, title, street address, crown pastoral land, aerial imagery, and geodetic data.
 - Education Counts

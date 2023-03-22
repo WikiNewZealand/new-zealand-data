@@ -98,6 +98,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 	- [GIS Data](http://data.wcc.opendata.arcgis.com/)
 	- [GIS Data (alternative)](https://koordinates.com/publisher/wcc/data/)
 	- [Metlink Realtime Data (non-API)](http://www.metlink.org.nz/getting-around/real-time-information/)
+	- [Metlink Open Data API](https://opendata.metlink.org.nz/)
 - Environment Canterbury & Partners (ECAN)
 	- [GIS Data & APIs](https://data.canterburymaps.govt.nz/)
 - Greater Wellington Regional Council (GWRC)

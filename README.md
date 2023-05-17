@@ -140,7 +140,7 @@ This is a list of New Zealand Data and available APIs, Pull Requests are very we
 ### Companies
 
 - New Zealand Electricity Industry
-	- [Market Info](http://www.electricityinfo.co.nz/comitFta/ftapage.main)
+	- [Electricity Info Wholesale Information Trading System](https://developer.electricityinfo.co.nz/WITS/)
 - NZ Post
 	- [Developer Center](https://www.nzpost.co.nz/business/developer-centre)
 - Zenbu
